@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 second content
+=======
+same content
+>>>>>>> e0ff8f5d3d27c0672962ce1b646572a244e6722e
